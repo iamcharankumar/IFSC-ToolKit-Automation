@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Razor Pay IFSC Details Automation Suite">
+	<test name="Functional Testing">
+		<classes>
+			<class name="com.razorpay_api.ifsc.test.RazorPayIFSCTest">
+			</class>
+		</classes>
+	</test>
+</suite>

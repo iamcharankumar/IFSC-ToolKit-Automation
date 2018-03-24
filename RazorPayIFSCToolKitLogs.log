@@ -1,0 +1,110 @@
+[RemoteTestNG] detected TestNG version 6.9.10
+[TestNG] Running:
+  /Users/charan/Documents/Battle_Field/RazorPay_IFSC_ToolKit/RazorPayIFSCDetailsTestNG.xml
+
+API END POINT ----> https://ifsc.razorpay.com/HDFC0CANSCB
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.codehaus.groovy.reflection.CachedClass$3$1 (file:/Users/charan/.m2/repository/org/codehaus/groovy/groovy/1.8.4/groovy-1.8.4.jar) to method java.lang.Object.finalize()
+WARNING: Please consider reporting this to the maintainers of org.codehaus.groovy.reflection.CachedClass$3$1
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+Razor Pay API PASS for the IFSC: HDFC0CANSCB
+API END POINT ----> https://ifsc.razorpay.com/KARB0000001
+Razor Pay API PASS for the IFSC: KARB0000001
+API END POINT ----> https://ifsc.razorpay.com/BOFA0CN6215
+Razor Pay API PASS for the IFSC: BOFA0CN6215
+API END POINT ----> https://ifsc.razorpay.com/CITI0000003
+Razor Pay API PASS for the IFSC: CITI0000003
+API END POINT ----> https://ifsc.razorpay.com/ICIC0006609
+Razor Pay API PASS for the IFSC: ICIC0006609
+
+
+---------------> There are 5 banks involved in this Automation <---------------
+
+
+
+
+---------------> The Bank Details for the IFSC Code - HDFC0CANSCB <---------------
+
+
+Address - 98, MAULANA AZAD ROAD, PORT BLAIR, 744101, ANDAMAN  & NICOBAR ISLAND
+State - ANDAMAN AND NICOBAR ISLAND
+Branch - ANDAMAN & NICOBAR STATE COOP BANK LTD
+District - ANDAMAN
+Contact - 9434281460
+City - PORT BLAIR
+Bank - Andaman & Nicobar State Co-operative Bank
+Bank Code - ANSX
+---------------> End Of Bank Details <---------------
+
+
+
+
+---------------> The Bank Details for the IFSC Code - KARB0000001 <---------------
+
+
+Address - REGD. & HEAD OFFICE, P.B.NO.599, MAHAVEER CIRCLE, KANKANADY, MANGALORE - 575002
+State - KARNATAKA
+Branch - RTGS-HO
+District - DAKSHINA KANNADA
+Contact - 2228222
+City - MANGALORE
+Bank - Karnataka Bank
+Bank Code - KARB
+---------------> End Of Bank Details <---------------
+
+
+
+
+---------------> The Bank Details for the IFSC Code - BOFA0CN6215 <---------------
+
+
+Address - EA CHAMBERS,EXPRESS AVENUE,8TH FLOOR NO.49,50 L,WHITES ROAD,ROYAPETTAH,CHENNAI 600014
+State - TAMIL NADU
+Branch - CHENNAI BRANCH
+District - CHENNAI
+Contact - 
+City - CHENNAI
+Bank - Bank of America
+Bank Code - BOFA
+---------------> End Of Bank Details <---------------
+
+
+
+
+---------------> The Bank Details for the IFSC Code - CITI0000003 <---------------
+
+
+Address - NO. 2, CLUB HOUSE ROAD, CHENNAI - 600002
+State - TAMIL NADU
+Branch - CHENNAI
+District - CHENNAI
+Contact - 28460014
+City - CHENNAI
+Bank - CITI Bank
+Bank Code - CITI
+---------------> End Of Bank Details <---------------
+
+
+
+
+---------------> The Bank Details for the IFSC Code - ICIC0006609 <---------------
+
+
+Address - NEW NO. 280, OLD NO.377, FIRST FLOOR, MINT STREE, CHENNAI 600 079
+State - TAMIL NADU
+Branch - CHENNAI
+District - CHENNAI
+Contact - 
+City - CHENNAI
+Bank - ICICI Bank
+Bank Code - ICIC
+---------------> End Of Bank Details <---------------
+
+
+
+===============================================
+Razor Pay IFSC Details Automation Suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+

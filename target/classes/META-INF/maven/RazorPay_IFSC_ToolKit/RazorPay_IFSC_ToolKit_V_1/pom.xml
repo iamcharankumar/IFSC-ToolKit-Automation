@@ -1,0 +1,67 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>RazorPay_IFSC_ToolKit</groupId>
+	<artifactId>RazorPay_IFSC_ToolKit_V_1</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
+	<name>RazorPay_IFSC_ToolKit_V_1</name>
+	<url>http://maven.apache.org</url>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<dependencies>
+
+		<!-- TestNG Dependencies -->
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>6.9.10</version>
+		</dependency>
+
+		<!-- Lombok Getters and Setters Dependencies -->
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.16.10</version>
+			<scope>provided</scope>
+		</dependency>
+
+		<!-- Simple JSON Library Dependencies -->
+
+		<dependency>
+			<groupId>com.googlecode.json-simple</groupId>
+			<artifactId>json-simple</artifactId>
+			<version>1.1.1</version>
+		</dependency>
+
+		<!-- GSON Library Dependencies -->
+
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>1.4</version>
+		</dependency>
+
+		<!-- Rest Assured Dependencies -->
+		<dependency>
+			<groupId>com.jayway.restassured</groupId>
+			<artifactId>rest-assured</artifactId>
+			<version>1.6</version>
+			<scope>test</scope>
+		</dependency>
+
+		<!-- The HttpClient component supports the client-side of RFC 1945 (HTTP/1.0) 
+			and RFC 2616 (HTTP/1.1) , several related specifications (RFC 2109 (Cookies), 
+			RFC 2617 (HTTP Authentication) , etc.), and provides a framework by which 
+			new request types (methods) or HTTP extensions can be created easily. <dependency> 
+			<groupId>commons-httpclient</groupId> <artifactId>commons-httpclient</artifactId> 
+			<version>3.1</version> </dependency> -->
+
+	</dependencies>
+
+</project>
