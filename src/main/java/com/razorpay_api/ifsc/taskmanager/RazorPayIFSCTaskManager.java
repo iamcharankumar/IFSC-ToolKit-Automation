@@ -12,7 +12,7 @@ import lombok.Setter;
 
 public class RazorPayIFSCTaskManager {
 
-	private static @Getter @Setter String razorPayIP;
+	public static @Getter @Setter String razorPayIP;
 	private static @Getter @Setter List<Response> razorPayResponse = new ArrayList<Response>();
 	private static @Getter @Setter ArrayList<String> banks;
 	RazorPayIFSCRequest razorPayIFSCRequest;

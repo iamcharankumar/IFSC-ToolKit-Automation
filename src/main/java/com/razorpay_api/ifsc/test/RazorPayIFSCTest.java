@@ -20,7 +20,7 @@ public class RazorPayIFSCTest {
 		SoftAssert razorPayIFSCSoftAssert = new SoftAssert();
 		if (razorPayServer != null) {
 			RazorPayIFSCTaskManager razorPayIFSCTaskManager = new RazorPayIFSCTaskManager();
-			RazorPayIFSCTaskManager.setRazorPayIP(razorPayServer);
+			razorPayIFSCTaskManager.setRazorPayIP(razorPayServer);
 			razorPayIFSCTaskManager.razporPayTasks();
 		}
 		razorPayIFSCSoftAssert.assertAll();

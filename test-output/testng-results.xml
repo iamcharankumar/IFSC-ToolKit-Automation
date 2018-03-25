@@ -2,12 +2,12 @@
 <testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-03-24T07:03:11Z" name="Razor Pay IFSC Details Automation Suite" finished-at="2018-03-24T07:03:14Z" duration-ms="2667">
+  <suite started-at="2018-03-25T05:49:07Z" name="Razor Pay IFSC Details Automation Suite" finished-at="2018-03-25T05:49:11Z" duration-ms="3862">
     <groups>
     </groups>
-    <test started-at="2018-03-24T07:03:11Z" name="Functional Testing" finished-at="2018-03-24T07:03:14Z" duration-ms="2667">
+    <test started-at="2018-03-25T05:49:07Z" name="Functional Testing" finished-at="2018-03-25T05:49:11Z" duration-ms="3862">
       <class name="com.razorpay_api.ifsc.test.RazorPayIFSCTest">
-        <test-method signature="razorPayIFSCDetailsTesting()[pri:0, instance:com.razorpay_api.ifsc.test.RazorPayIFSCTest@5aebe890]" started-at="2018-03-24T12:33:11Z" name="razorPayIFSCDetailsTesting" finished-at="2018-03-24T12:33:14Z" duration-ms="2650" status="PASS">
+        <test-method signature="razorPayIFSCDetailsTesting()[pri:0, instance:com.razorpay_api.ifsc.test.RazorPayIFSCTest@5aebe890]" started-at="2018-03-25T11:19:07Z" name="razorPayIFSCDetailsTesting" finished-at="2018-03-25T11:19:11Z" duration-ms="3845" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- razorPayIFSCDetailsTesting -->
