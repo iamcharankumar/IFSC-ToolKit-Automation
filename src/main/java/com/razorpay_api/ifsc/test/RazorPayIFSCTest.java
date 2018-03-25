@@ -14,7 +14,6 @@ public class RazorPayIFSCTest {
 
 	@Test
 	public void razorPayIFSCDetailsTesting() throws FileNotFoundException, IOException {
-
 		Properties razorPayServerProperties = new Properties();
 		razorPayServerProperties.load(new FileInputStream("API_Config.properties"));
 		String razorPayServer = razorPayServerProperties.getProperty("API_SERVER_QA");
